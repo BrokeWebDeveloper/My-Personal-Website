@@ -1,0 +1,15 @@
+body {
+    background: white;
+}
+
+h1 {
+  color: black;
+  font-family: 'Inter var', sans-serif;
+  font-size: 290%;
+}
+
+p {
+ color: black;
+ font-family: 'Inter var', sans-serif;
+ font-size: 200%;
+}
